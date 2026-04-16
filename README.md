@@ -9,8 +9,7 @@ A collection of DP problems solved on Fedora, tracked by pattern and difficulty.
 | :-- | :--- | :--- | :--- | :--- | :---: |
 | 01 | [Nth Fibonacci](https://leetcode.com/problems/fibonacci-number/) | 1D-DP | Easy | [Link](./1D-DP/fibonacci.cpp) | ✅ |
 | 02 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 1D-DP | Easy | [Link](./1D-DP/climbing_stairs.cpp) | ✅ |
-| 03 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 1D-DP | Easy | [Link](./1D-DP/min_cost.cpp) | ✅ |
-| 04 | [House Robber](https://leetcode.com/problems/house-robber/) | 1D-DP | Medium | [Link](./1D-DP/house_robber.cpp) | ⏳ |
+|03	 |  [Coin Change](https://leetcode.com/problems/coin-change/) |	Knapsack |	Medium |	[Link](.Knapsack/coin_change.cpp) |	✅ |
 
 ## 📂 Folder Structure
 
